@@ -1,0 +1,14 @@
+{
+  "name": "ejemplo01",
+  "version": "1.0.0",
+  "description": "Ejercicio de temperatura",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Josue Rangel",
+  "license": "MIT"
+}

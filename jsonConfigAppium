@@ -1,0 +1,7 @@
+{
+  "deviceName": "192.168.1.66:5555",
+  "platformName": "android",
+  "appPackage": "com.android.calculator2",
+  "appActivity": ".Calculator",
+  "noReset": true
+}

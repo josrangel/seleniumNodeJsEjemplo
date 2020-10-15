@@ -1,0 +1,20 @@
+{
+  "name": "appium",
+  "version": "1.0.0",
+  "description": "Primer ejemplo de Selenium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Selenium",
+    "testing"
+  ],
+  "author": "Josue Rangel",
+  "license": "MIT",
+  "dependencies": {
+    "ms-chromium-edge-driver": "^0.2.5",
+    "operadriver": "^1.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}

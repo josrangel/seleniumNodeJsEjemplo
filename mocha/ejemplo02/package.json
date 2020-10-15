@@ -1,0 +1,14 @@
+{
+  "name": "ejemplo02",
+  "version": "1.0.0",
+  "description": "Manejo de cadenas",
+  "main": "kmmx.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Josue Rangel",
+  "license": "MIT"
+}
